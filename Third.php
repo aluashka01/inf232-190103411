@@ -1,5 +1,5 @@
 <?php
-$colors = array("red", "green", "white","orange");
+$colors = array("red","yellow","black","green", "white","orange","pink");
 echo count($colors);
 ?>
 
