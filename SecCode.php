@@ -3,9 +3,9 @@
   echo "$fname <br>";
 }
 
-groupmates("Naz");
+groupmates("Bek");
 groupmates("Arna");
-groupmates("Aru");
+groupmates("Zhandos");
 groupmates("Dana");
 groupmates("Nurbek");
 ?>
